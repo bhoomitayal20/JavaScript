@@ -21,7 +21,7 @@ if(Object.keys(emptyObj).length===0){
     console.log("object is empty");
     
 }
-//mullish coalescing operator(??):null undefined
+//mullish coalescing operator(??):null  undefined used to add flag values instead of null and undefined
 let val1;
 //val1=5??10
 val1=null??10
